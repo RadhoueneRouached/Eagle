@@ -1,0 +1,28 @@
+
+
+    <?xml version="1.0" encoding= "UTF-8" ?>
+     
+    <questions>
+    <question question_title="l'aigle est carnivore ?" reponseV="oui"  reponse2="non" reponse3="peut etre"></question>
+    <question question_title="Durée de vie de l'aigle ?" reponse2="5-10"  reponseV="20 à 35" reponse3="15-20"></question>
+	<question question_title="l'aigle passe par combien d'etapes dans son cycle de vie ?" reponse2="2" reponseV="4"  reponse3="3" > </question>
+	<question question_title="la femelle de l'aigle s'appelle comment?" reponse2="lionne" reponseV="aigle"  reponse3="eagle" > </question>
+	<question question_title="Le petit de l'aigle est ?" reponse2="aigle" reponseV="aiglon"  reponse3="lionceau" > </question>
+	<question question_title="Quels sont les prédateurs de l'aigle ?" reponse2="loup" reponseV="aucun"  reponse3="lion" > </question>
+	<question question_title="Vitesse de l'aigle ?" reponse2="160 Km/h" reponseV="170 Km/h"  reponse3="180 Km/h" > </question>
+	<question question_title="Qui est le plus rapide ?" reponseV="Martinet" reponse2="Aigle"  reponse3="Hirondelle" > </question>
+	<question question_title="Quel est le cri de l'aigle ?" reponseV="glatissement" reponse2="le rugissement"  reponse3="miaule" > </question>
+	<question question_title="Quel est l'adjectif de l'aigle ?" reponseV="Aquilin" reponse2="équin"  reponse3=" léonin" > </question>
+	<question question_title="L'aigle appartient a quel genre ?" reponseV="Aquila" reponse2="Bovidae"  reponse3="Panthera" > </question>
+	<question question_title="la femelle de l'aigle pond combien d'ouefs ?" reponse3="4" reponse2="3"  reponseV="2" > </question>
+	<question question_title="Quel est l'envergure de l'aigle ?" reponse3="2,91 m" reponse2=" 2,61 m"  reponseV="2,81 Kg" > </question>
+	<question question_title="Quel est la periode d'incubation des oeufs ?" reponse3="40 j" reponse2="41 j"  reponseV="41 j" > </question>
+	<question question_title="A quel age l'aiglon fait son premier vole ?" reponse3="11 semaines" reponse2="13 semaines"  reponseV="10 semaines" > </question>
+	<question question_title="les aigles vivent en groupe?" reponse3="oui" reponse2="peut etre"  reponseV="non" > </question>
+	<question question_title="l'aigle vole t-il le soir ?" reponse3="oui" reponse2="peut etre"  reponseV="non" > </question>
+	<question question_title="l'aigle vole t-il le jour ?" reponse3="non" reponse2="peut etre"  reponseV="oui" > </question>
+	<question question_title="l'aigle represente ?" reponseV="la force" reponse2="l'amour"  reponse3="la beauté" > </question>
+	<question question_title="l'aigle est le signe de : ?" reponseV="l'Armée de l'air " reponse2="la police"  reponse3="la marine" > </question>
+	
+	</questions>
+
